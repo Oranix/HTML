@@ -1,0 +1,54 @@
+img {  /*from the internet  */
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+}
+a:hover {
+  color: pink;
+}
+a:visited {
+  color: blue;
+}
+body{
+	background-image: url(img4.jpeg);
+	background-position:center;
+	background-repeat:repeat; 
+	font-family: "Georgia", Times, serif;
+	font-weight: bold;
+}
+}
+/* הגדרת קלאסס */
+.h3 {
+    font-family:Cursive;
+	font-weight: bold;
+
+}
+.red {
+	color:red;     
+}
+
+.bigFont {
+	font-size: 32px;
+}
+
+/* ID */
+#specialStyle {			
+	/* border: 2px solid red; */
+	width:30%;     /* <!--color background only 30% width--!> */
+	background-color: gray;
+}
+ .video-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+}
+h2{
+    display: inline-blcok;
+}
